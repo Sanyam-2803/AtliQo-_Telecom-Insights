@@ -1,3 +1,5 @@
+![AtliQo Market share Vs Competitors](https://github.com/user-attachments/assets/1eab6022-27bc-4a19-83e1-7a76796b0414)
+![Data modelling](https://github.com/user-attachments/assets/1faeded2-bcce-413f-a179-0140473eda06)
 # AtliQo_Telecom Insights
 
   AtliQo Telecom Challenge conducted by Codebasics
