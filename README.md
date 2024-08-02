@@ -1,3 +1,8 @@
+![Screenshot 2024-08-02 234918](https://github.com/user-attachments/assets/fedd55eb-f8d6-48da-b2c3-953ba8d42b8f)
+![Overview](https://github.com/user-attachments/assets/47d89fc5-6c76-4ed0-ad06-5dea584e00bd)
+![Key metrics of AtliQo](https://github.com/user-attachments/assets/1158f1d7-7142-4f29-a3c5-89dc7cbd3ae3)
+![Monthly Trend](https://github.com/user-attachments/assets/ad2dfb34-d080-4a7f-975a-41bf4f21f8db)
+![AtliQo Revenue Analysis](https://github.com/user-attachments/assets/b8c13746-2325-4926-b450-a41e2250c65b)
 ![AtliQo Market share Vs Competitors](https://github.com/user-attachments/assets/1eab6022-27bc-4a19-83e1-7a76796b0414)
 ![Data modelling](https://github.com/user-attachments/assets/1faeded2-bcce-413f-a179-0140473eda06)
 # AtliQo_Telecom Insights
