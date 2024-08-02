@@ -1,4 +1,5 @@
-![Screenshot 2024-08-02 234918](https://github.com/user-attachments/assets/fedd55eb-f8d6-48da-b2c3-953ba8d42b8f)
+![Screenshot 2024-08-02 235335](https://github.com/user-attachments/assets/f470321d-87c8-4a49-8391-735ebffb8ac9)
+
 ![Overview](https://github.com/user-attachments/assets/47d89fc5-6c76-4ed0-ad06-5dea584e00bd)
 ![Key metrics of AtliQo](https://github.com/user-attachments/assets/1158f1d7-7142-4f29-a3c5-89dc7cbd3ae3)
 ![Monthly Trend](https://github.com/user-attachments/assets/ad2dfb34-d080-4a7f-975a-41bf4f21f8db)
