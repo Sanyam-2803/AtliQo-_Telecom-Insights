@@ -1,3 +1,4 @@
+![Uploading 11..png…]()
 
 ![Data modelling](https://github.com/user-attachments/assets/1faeded2-bcce-413f-a179-0140473eda06)
 # AtliQo_Telecom Insights
