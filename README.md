@@ -1,5 +1,6 @@
-![222](https://github.com/user-attachments/assets/0220fa60-ca68-44b6-a711-8ac31f38be6c)
-![Uploading 11..png…]()
+
+
+![11](https://github.com/user-attachments/assets/95e426b7-ca8d-42e2-8200-508912964330)
 
 ![Data modelling](https://github.com/user-attachments/assets/1faeded2-bcce-413f-a179-0140473eda06)
 # AtliQo_Telecom Insights
